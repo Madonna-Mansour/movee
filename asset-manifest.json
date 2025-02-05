@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movee/static/css/main.40f4b37d.css",
+    "main.js": "/movee/static/js/main.4ec150ca.js",
+    "static/media/rosa-land.png": "/movee/static/media/rosa-land.91a7f2e042b8c2ea99ac.png",
+    "static/media/criativo.png": "/movee/static/media/criativo.842d81f4436c9fa1457c.png",
+    "static/media/khamsat.png": "/movee/static/media/khamsat.bddce50f92b6d57354df.png",
+    "static/media/botiga.png": "/movee/static/media/botiga.dabf8088bc5e7fe46c68.png",
+    "static/media/fior.png": "/movee/static/media/fior.caafad4d3953f6c6067e.png",
+    "static/media/time zone.png": "/movee/static/media/time zone.aa496be05739c150f956.png",
+    "static/media/me.png": "/movee/static/media/me.f258afdc6caa9911318d.png",
+    "static/media/Madonna.pdf": "/movee/static/media/Madonna.ec44fde0f496c4ac8ac8.pdf",
+    "index.html": "/movee/index.html",
+    "static/media/deve.webp": "/movee/static/media/deve.c625776267d50a9abd75.webp",
+    "main.40f4b37d.css.map": "/movee/static/css/main.40f4b37d.css.map",
+    "main.4ec150ca.js.map": "/movee/static/js/main.4ec150ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40f4b37d.css",
+    "static/js/main.4ec150ca.js"
+  ]
+}
